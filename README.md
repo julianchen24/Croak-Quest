@@ -12,6 +12,12 @@ This project was created for **nwHacks 2025**, where it won the **Best Beginner 
 
 ---
 
+**▶ Click the image to watch the demo on YouTube**
+<a href="https://www.youtube.com/watch?v=KHt1T8ZliwM">
+  <img src="https://img.youtube.com/vi/KHt1T8ZliwM/0.jpg" width="800">
+</a>
+
+---
 ## **Key Features**
 
 1. **Leap Motion Integration**: 
